@@ -7,6 +7,6 @@ cool if a full executable file was found totally by random.
 
 Didn't find one anyway (◔_◔)
 
-Be careful when running this though, I recommend executing in a VM
+Be careful when running this though, ITS DANGEROUS, I recommend executing in a VM
 because it's not impossible to it to remove an archive even if it's
 one in a billion chance
