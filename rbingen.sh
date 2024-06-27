@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-BS="5K"			#Size of the archive for dd (1K, 2M, 3G...)
+BS="46K"			#Size of the archive for dd (1K, 2M, 3G...)
 LIMIT=100		#Quantity of files to generate
 LOCATION="./"	#Locations where the files will be created
 
